@@ -8,22 +8,11 @@
 
 ### About Me
 
-I'm Mudi — tech enthusiast, gaming addict, and code wizard. I love building tools,
-automations, and playful experiments across web, scripting, and security. I'm always
-crafting something cool: from tiny utilities to end‑to‑end projects.
-
 What I enjoy:
-- Shipping fast prototypes and turning them into useful tools
-- Automating boring tasks with Python and JavaScript
-- Exploring web security basics and responsible bug hunting
-- Tweaking workflows, terminals, and dev environments
-
-Currently hacking on:
-- Lightweight APIs and bots
-- Frontend experiments and UI micro‑interactions
-- Cloud/DevOps basics to deploy smarter
-
-Always open to collaboration and new ideas.
+- Sviluppo bot Discord
+- Sviluppo siti web e web app
+- Sviluppo server e script FiveM
+- Grafica e design (branding, UI, assets)
 
 ---
 ### Tech Stack
@@ -40,8 +29,10 @@ Always open to collaboration and new ideas.
 
 ### Projects & Focus Areas
 
-- Custom tools for reconnaissance and vulnerability scanning  
-- Scripting for bug bounty and reporting processes
+- Bot Discord (moderazione, utility, automazioni)
+- Siti web e web app (vetrina, dashboard, landing)
+- FiveM: configurazione server e sviluppo script
+- Grafica: brand kit, banner, UI micro‑interactions
 
 ---
 
