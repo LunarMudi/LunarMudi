@@ -5,9 +5,9 @@
 </p>
 
 ---
-
+<p align="center">
 ### About Me
-
+<p>
 I'm Mudi — a passionate technology enthusiast, dedicated gamer, and skilled software engineer. With expertise spanning web development, scripting, and cybersecurity, I specialize in creating innovative tools, automation solutions, and experimental projects. My portfolio includes everything from compact utility applications to comprehensive end‑to‑end systems. I thrive on transforming ideas into functional, elegant solutions through code.
 
 ---
@@ -17,7 +17,7 @@ I'm Mudi — a passionate technology enthusiast, dedicated gamer, and skilled so
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-05122A?style=flat&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=white"/>
 </p>
