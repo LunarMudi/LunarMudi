@@ -47,9 +47,9 @@ Always open to collaboration and new ideas.
 
 ### Connect With Me
 
-[![Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome&logoColor=white)](https://mudi.bio)  
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90-Website-05122A?style=flat)](https://mudi.bio)  
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=white)](https://discord.mudi.bio)  
-[![e-z.bio](https://img.shields.io/badge/%F0%9F%94%97-e--z.bio-05122A?style=flat)](https://e-z.bio/mudi)  
+[![e-z.bio](https://img.shields.io/badge/%F0%9F%8C%90-e--z.bio-05122A?style=flat)](https://e-z.bio/mudi)  
 [![TikTok](https://img.shields.io/badge/-TikTok-05122A?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lunar.mudi)  
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lunar.mudi)  
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@LunarMudi)
