@@ -18,7 +18,7 @@ I'm Mudi — a passionate technology enthusiast, dedicated gamer, and skilled so
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-05122A?style=flat&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LUA-05122A?style=flat&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
