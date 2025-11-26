@@ -32,8 +32,8 @@ Always open to collaboration and new ideas.
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3"/>
-  <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
 
