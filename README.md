@@ -5,9 +5,9 @@
 </p>
 
 ---
-<p align="center">
+
 ### About Me
-<p>
+
 I'm Mudi — a passionate technology enthusiast, dedicated gamer, and skilled software engineer. With expertise spanning web development, scripting, and cybersecurity, I specialize in creating innovative tools, automation solutions, and experimental projects. My portfolio includes everything from compact utility applications to comprehensive end‑to‑end systems. I thrive on transforming ideas into functional, elegant solutions through code.
 
 ---
