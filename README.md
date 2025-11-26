@@ -8,11 +8,7 @@
 
 ### About Me
 
-What I enjoy:
-- Sviluppo bot Discord
-- Sviluppo siti web e web app
-- Sviluppo server e script FiveM
-- Grafica e design (branding, UI, assets)
+I'm Mudi — a passionate technology enthusiast, dedicated gamer, and skilled software engineer. With expertise spanning web development, scripting, and cybersecurity, I specialize in creating innovative tools, automation solutions, and experimental projects. My portfolio includes everything from compact utility applications to comprehensive end‑to‑end systems. I thrive on transforming ideas into functional, elegant solutions through code.
 
 ---
 ### Tech Stack
@@ -29,10 +25,12 @@ What I enjoy:
 
 ### Projects & Focus Areas
 
-- Bot Discord (moderazione, utility, automazioni)
-- Siti web e web app (vetrina, dashboard, landing)
-- FiveM: configurazione server e sviluppo script
-- Grafica: brand kit, banner, UI micro‑interactions
+- Discord bots (moderation, utilities, automation)
+- Websites and web apps (portfolio, dashboards, landing pages)
+- FiveM: server configuration and custom scripts
+- Design: brand kits, banners, UI micro‑interactions
+- Script making and automation (Python/JavaScript)
+- Python tools (CLI utilities, scraping, workflow automation)
 
 ---
 
