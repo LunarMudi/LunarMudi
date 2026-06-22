@@ -38,8 +38,7 @@ I'm Mudi — a passionate technology enthusiast, dedicated gamer, and skilled so
 ### Connect With Me
 
 [![Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=googlechrome&logoColor=white)](https://mudi.bio)  
-[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=white)](https://discord.mudi.bio)  
-[![e-z.bio](https://img.shields.io/badge/-e--z.bio-05122A?style=flat&logo=googlechrome&logoColor=white)](https://e-z.bio/mudi)  
+[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1319280994402172941)  
 [![TikTok](https://img.shields.io/badge/-TikTok-05122A?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lunar.mudi)  
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lunar.mudi)  
 [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@LunarMudi)
