@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mudi</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQE9zXT1T-HXmw/feedshare-shrink_800/B56ZWqE7RRGsAo-/0/1742315198277?e=2147483647&v=beta&t=E6Q6yeBhvyt2y_ru28g50LTQHOuS-uBvAi8Qh9KlSW4" width="400"/>
+  <img src="https://host.mudi.bio/mudi/mudi-banner.png" width="400"/>
 </p>
 
 ---
